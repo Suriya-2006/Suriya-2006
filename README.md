@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Suriya-2006
+- 👋 Hey! I’m @Suriya-2006
 - 👀 I’m interested in Full Stack(django)
-- 🌱 I’m currently learning BCA 2nd year
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently Pursuing BCA 3rd year
 - 📫 You can reach me on suriyachinnu43@gmail.com
 - 😄 Pronouns: Chinnu
+- - 💞️ I’m looking to collaborate on ...
 - ⚡ Fun fact: ...
 
 <!---
